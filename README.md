@@ -9,7 +9,7 @@ Faith Lee is a local photographer who captures a side of her clients that is not
   <li>Information about Faith so clients know a little bit about who they will be working with</li>
   <li>Contact form to book a photoshoot</li>
   <li>Two carousels that lead to her portfolios to show her range</li>
-  <li>Explaination of the process so clients have an idea of how the photoshoots will run</li>
+  <li>Explanation of the process so clients have an idea of how the photoshoots will run</li>
   <li>Unique portfolio layout</li>
   </ul>
 <p>Thank you for this wonderful oppurtunity and taking our website into consideration!</p>
